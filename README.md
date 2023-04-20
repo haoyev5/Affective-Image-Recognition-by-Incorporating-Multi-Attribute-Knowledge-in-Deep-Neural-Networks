@@ -1,6 +1,4 @@
 # Affective Image Recognition with Multi-Attribute Knowledge in Deep
-Neural Networks
-
 Implementation of "Affective Image Recognition with Multi-Attribute Knowledge in Deep Neural Networks"
 
 ## Visualization and Motivation
