@@ -51,5 +51,5 @@ Classification performance achieved on **FI dataset**.
 
 ## Citation
 
-Hao Zhang, Gaifang Luo, Yingying, Yue, Kangjian, He, Dan Xu. Affective Image Recognition with Multi-Attribute Knowledge in Deep Neural Networks[J]. Multimedia Tools and Applications, 2023.
+Zhang, H., Luo, G., Yue, Y. *et al.* Affective image recognition with multi-attribute knowledge in deep neural networks. *Multimed Tools Appl* (2023). https://doi.org/10.1007/s11042-023-16081-7
 
